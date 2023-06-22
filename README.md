@@ -4,7 +4,7 @@ This project is a web app that measures a user's click speed (CPS, clicks per se
 The main purpose of this application is to showcase web development skills and demonstrate the ability to implement interactive features using React. Additionally, it serves as a fun tool for users to measure and compare their click speed. The application also focuses on providing a visually pleasing user experience with a clean design, including a dark mode feature.
 
 
-[View Demo](https://cpstest.click/es](https://cpstestapp.netlify.app/))
+[View Demo](https://cpstestapp.netlify.app/)
 
 
 ## Screenshots
