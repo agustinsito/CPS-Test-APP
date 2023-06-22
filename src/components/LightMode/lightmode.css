@@ -129,7 +129,10 @@ filter: invert(100%) saturate(100%) brightness(105%) contrast(300%);
     filter: drop-shadow(0px 0px 8px #ff9900bc);
   }
 
+.light .scroll-down-indicator{
+  filter: invert(0%);
 
+}
   @media (max-width: 1485px) {
     section{
       margin-right: 225px;

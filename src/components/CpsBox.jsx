@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Swal from "sweetalert2";
 import starImage from "../images/star.png";
 import emptyStarImage from "../images/star-empty.png";
-import DarkMode from "./LightMode/LightMode";
+
 
 export const CpsBox = () => {
   const [clicks, setClicks] = useState(0);
@@ -118,6 +118,7 @@ export const CpsBox = () => {
           </div>
         </div>
       </div>
+      <div className="scroll-down-indicator"></div>
     </section>
   );
 };
